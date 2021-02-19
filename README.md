@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou Lucas 👋
 
 <!--
 **silva021/silva021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
