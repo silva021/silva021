@@ -3,6 +3,10 @@
 <!--
 **silva021/silva021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Linkedin Badge](https://img.shields.io/static/v1?message=lucasdanielld&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/lucasdanielld/) [![Gmail Badge](https://img.shields.io/static/v1?message=lucasdanielbarradas@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:lucasdanielbarradas@gmail.com) [![Discord User](https://img.shields.io/static/v1?message=lc%20%230001&logo=discord&labelColor=2C2F33&color=2C2F33&logoColor=white&label=%20)](https://discord.com/users/313482787149840394) [![Spotify User](https://img.shields.io/static/v1?message=Lucas&logo=spotify&labelColor=1ed760&color=1ed760&logoColor=white&label=%20)](https://open.spotify.com/user/p2bq4wehhufkz6vhsp7d6jpzk?si=0yErVtAjRA-LI-r6O1Hj8A)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
