@@ -1,5 +1,6 @@
 ### Olá, eu sou Lucas 👋
 
+
 <!--
 **silva021/silva021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Por onde entrar em contato!  
 [![Linkedin Badge](https://img.shields.io/static/v1?message=silva021&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/silva021/) 
 [![Gmail Badge](https://img.shields.io/static/v1?message=lucasssilva021@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:lucasssilva021@gmail.com) 
 
