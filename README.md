@@ -37,9 +37,9 @@ class Lucas {
 ```
 
 
-## Estatística do GitHub
+# Estatística do GitHub
 
-# Linguagens mais utilizadas
+## Linguagens mais utilizadas
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silva021&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
-# Linguagens mais utilizadas
+## GitHub
 ![Lucas Silva's github stats](https://github-readme-stats.vercel.app/api?username=Silva021&hide=["issues"]&&theme=react)
