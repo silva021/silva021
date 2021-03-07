@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/static/v1?message=silva021&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/silva021/) 
 [![Gmail Badge](https://img.shields.io/static/v1?message=lucasssilva021@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:lucasssilva021@gmail.com)
 
-![Lucas Silva's github stats](https://github-readme-stats.vercel.app/api?username=silva021&hide=["issues"]&&theme=react)
-
-
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
