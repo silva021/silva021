@@ -1,4 +1,4 @@
-### Olá, eu sou Lucas 👋
+### Olá, eu sou Lucas! 👋
 
 
 <!--
@@ -19,6 +19,22 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/static/v1?message=silva021&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/silva021/) 
 [![Gmail Badge](https://img.shields.io/static/v1?message=lucasssilva021@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:lucasssilva021@gmail.com)
 
+## Quem sou eu? 
+
+``` Kotlin
+
+class Lucas {
+    var name = "Lucas Silva Sousa"
+    var year = 20
+    var linkedin = "https://www.linkedin.com/in/silva021/"
+    var languages = arrayOf("Java", "Kotlin", "Delphi")
+    var database = arrayOf("MSSQL", "MySQL", "SQLite")
+    var architecture = arrayOf("MVC", "MVP", "MVVM")
+    var VCS = arrayOf("Tortoise", "GIT", "GitHub")
+    var interests = "Mobile Development"
+}
+
+```
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
