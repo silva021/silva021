@@ -36,14 +36,10 @@ class Lucas {
 
 ```
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> 
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="express" width="40" height="40"/> </a> 
-</p>
 
+## Estatística do GitHub
 
-
+# Linguagens mais utilizadas
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silva021&hide=scss&layout=compact&theme=radical&title_color=2ED3EA)
+# Linguagens mais utilizadas
+![Lucas Silva's github stats](https://github-readme-stats.vercel.app/api?username=Silva021&hide=["issues"]&&theme=react)
