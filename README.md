@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 class Lucas {
     var name = "Lucas Silva Sousa"
-    var year = 20
     var linkedin = "https://www.linkedin.com/in/silva021/"
     var languages = arrayOf("Java", "Kotlin", "Delphi")
     var database = arrayOf("MSSQL", "MySQL", "SQLite")
